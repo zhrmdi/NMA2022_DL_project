@@ -1,6 +1,6 @@
 # NMA2022-project
-Deep learning project for NMA 2022.
-Vision with Lost Glasses: Modelling how the brain deals with noisy input.
+Deep learning project for NMA 2022: **Modelling how the brain deals with noisy input.** <br/>
+Based on NMA's [Vision with Lost Glasses](https://deeplearning.neuromatch.io/projects/Neuroscience/blurry_vision.html) project.
 
 ## Objective
 
