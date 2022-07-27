@@ -16,3 +16,12 @@ ipython_config.py
 #   git rm -r .ipynb_checkpoints/
 
 # End of https://www.toptal.com/developers/gitignore/api/jupyternotebooks
+
+# the mat files for voxel data can be huge
+codes/bold-corr-finetune/**/data/*.mat
+
+codes/**/expert_after_pretraining
+codes/**/expert_after_training
+codes/**/expert_before_training
+codes/**/naive_after_training
+codes/**/naive_before_training
