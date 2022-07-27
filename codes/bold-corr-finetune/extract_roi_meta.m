@@ -1,6 +1,9 @@
 % See below for reference
 % https://github.com/KamitaniLab/BlurImageSharpening/blob/master/TrainFeatureDecoders.m
 
+% To run this, you also need to install BrainDecoderToolbox2
+% https://github.com/KamitaniLab/BrainDecoderToolbox2/
+
 load('data/Subject1.mat');
 
 %%
